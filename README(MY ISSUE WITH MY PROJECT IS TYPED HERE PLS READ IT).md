@@ -1,7 +1,7 @@
 # forlog
 Preparing an angular project linked to my firebase account for a forum and web blog combined web app but I have encountered an issue with one function
-this.afu.createUserWithEmailAndPassword(email, password).then function
-this.authservice.loginWithEmail(this.email, this.password).then(() => function 
+this.afu.createUserWithEmailAndPassword(email, password).then function ........inside registercomponent
+this.authservice.loginWithEmail(this.email, this.password).then(() =>....inside logincomponent.......
 those 2 places im facing issues saying then isnt defined properly 
 the error in console I get is
 
