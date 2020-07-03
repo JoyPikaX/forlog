@@ -42,3 +42,5 @@ invokeTask @ zone-evergreen.js:1621
 globalZoneAwareCallback @ zone-evergreen.js:1647
 
 This error is similar for the register component since i copied my register component codes to login errors passed there too if u can help me fix in one place will fix  similarly in other place thanks for the help in advance <3.
+
+This is the 1st time im posting my issue to github so pardon the inexpertise tell me if u need any other file for helping me
